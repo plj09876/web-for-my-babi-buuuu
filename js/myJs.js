@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "Hi buuuu iuuu !",
   text2: "Anh hỏi buuu chuyện này nhé ",
-  text3: "Buuuu có còn iu a khummmm ",
+  text3: "Buuuu có iu a khummmm ",
   text4: "Nếu mà khum trả lời là anh sẽ mặc định là có đó nha ",
   text5: "không bít ",
   text6: "Cóa",
